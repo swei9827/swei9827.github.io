@@ -1,0 +1,92 @@
+﻿  main.cpp
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
+  c:\androidsdk\glfw-3.2.1.bin.win32\include\glfw\glfw3.h(98): note: see previous definition of 'APIENTRY'
+c:\users\shengwei\documents\openglbasic\openglbasic\vector.h(140): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\matrix.h(189): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\matrix.h(190): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(344): warning C4838: conversion from 'float' to 'GLubyte' requires a narrowing conversion
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(303): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(304): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(305): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(306): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(307): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(308): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(310): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(311): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(312): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(313): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(314): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(315): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(317): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(318): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(319): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(320): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(321): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(322): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(324): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(325): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(326): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(327): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(328): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(329): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(331): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(332): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(333): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(334): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(335): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(336): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(338): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(339): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(340): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(341): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(342): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(343): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(599): warning C4838: conversion from 'float' to 'GLubyte' requires a narrowing conversion
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(558): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(559): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(560): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(561): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(562): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(563): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(565): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(566): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(567): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(568): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(569): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(570): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(572): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(573): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(574): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(575): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(576): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(577): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(579): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(580): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(581): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(582): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(583): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(584): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(586): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(587): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(588): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(589): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(590): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(591): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(593): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(594): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(595): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(596): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(597): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(598): warning C4244: 'initializing': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(765): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(766): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(882): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\triangle_demo.h(883): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\main.cpp(39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\main.cpp(40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\main.cpp(44): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\main.cpp(45): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\shengwei\documents\openglbasic\openglbasic\main.cpp(46): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  LINK : C:\Users\Shengwei\Documents\OpenGLBasic\Debug\OpenGLBasic.exe not found or not built by the last incremental link; performing full link
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OpenGLBasic.vcxproj -> C:\Users\Shengwei\Documents\OpenGLBasic\Debug\OpenGLBasic.exe
