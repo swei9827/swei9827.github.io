@@ -1,0 +1,103 @@
+﻿  main.cpp
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
+  c:\androidsdk\glfw-3.2.1.bin.win32\include\glfw\glfw3.h(98): note: see previous definition of 'APIENTRY'
+c:\users\shengwei\desktop\pokemon\pokemon\vector.h(141): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\matrix.h(189): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\matrix.h(190): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(139): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(140): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(141): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(142): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(181): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(182): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(189): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(190): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(191): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(195): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(196): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(197): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(201): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(202): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(203): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(207): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(208): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(209): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(213): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(214): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(215): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(219): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(220): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(221): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(249): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(250): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(257): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(258): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(259): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(263): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(264): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(265): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(269): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(270): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(271): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(275): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(276): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(277): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(281): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(282): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(283): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(287): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(288): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(289): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(308): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(309): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(316): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(317): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(318): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(322): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(323): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(324): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(328): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(329): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(330): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(334): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(335): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(336): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(340): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(341): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(342): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(346): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(347): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(348): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(432): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(433): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(451): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(452): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(465): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(468): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(468): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(475): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(475): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(479): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(482): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(482): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(486): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(489): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(489): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(494): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(497): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(497): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(504): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(504): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(508): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(511): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(511): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(515): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(518): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\shengwei\desktop\pokemon\pokemon\triangle_demo.h(518): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\main.cpp(39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\main.cpp(40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\main.cpp(44): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\main.cpp(45): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\shengwei\desktop\pokemon\pokemon\main.cpp(46): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Pokemon.vcxproj -> C:\Users\Shengwei\Desktop\Pokemon\Debug\Pokemon.exe
