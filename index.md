@@ -2,8 +2,6 @@
 
 You can use the [editor on GitHub](https://github.com/swei9827/swei9827.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -36,18 +34,37 @@ OpenGL Pokemon | Content in the second column
 OpenGL Shader | [Link](www.google.com)
 Audio Visualizer | Content in the second column
 
-### Jekyll Themes
+## Unity Project
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/swei9827/swei9827.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- [CustomCollision](https://github.com/swei9827/swei9827.github.io/tree/master/Unity/CustomCollision)
+- [Leaderboard](https://github.com/swei9827/swei9827.github.io/tree/master/Unity/Leaderboard)
+- [Lightroom](https://github.com/swei9827/swei9827.github.io/tree/master/Unity/Lightroom)
+- [Mecanim Animator](https://github.com/swei9827/swei9827.github.io/tree/master/Unity/Mecanim%20Animator)
+- [PathFinding](https://github.com/swei9827/swei9827.github.io/tree/master/Unity/PathFinding)
+- [ShootEmUp](https://github.com/swei9827/swei9827.github.io/tree/master/Unity/ShootEmUp)
+- [SimpleCameraController](https://github.com/swei9827/swei9827.github.io/tree/master/Unity/SimpleCameraController)
 
-# About
-## Support or Contact
+## OpenGL Project
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Audio Visualizer](https://github.com/swei9827/swei9827.github.io/tree/master/OpenGL/Audio%20Visualizer)
+  
+  An Audio Visualizer using OpenGL, Fmod library.
+  
+- [OpenGL Pokemon](https://github.com/swei9827/swei9827.github.io/tree/master/OpenGL/OpenGL%20Pokemon)
+  
+  Building Dugtrio from pokemon in OpenGL
+  
+- [Particles System](https://github.com/swei9827/swei9827.github.io/tree/master/OpenGL/Particles%20System)
+  
+  Custom Particles System, spawn sprites using particle affector 
+  
+## About Me
+
+I'm Shengwei, a student studying Bachelor Degree in Game Development at KDU University College. I currently looking for an internship, if you are interested, you can contact me with the informations provided below.
 
 ### Contact Me
 
 Email : sw7177@gmail.com
 
-Contact.No : :+60137379827
+Contact.No : +60137379827
 
