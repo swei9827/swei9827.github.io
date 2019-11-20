@@ -1,0 +1,5 @@
+﻿  ParticleAffector.cpp
+c:\users\shengwei\documents\0118888_gameengine\0118888_gameengine\vector.h(141): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\documents\0118888_gameengine\0118888_gameengine\matrix.h(189): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\shengwei\documents\0118888_gameengine\0118888_gameengine\matrix.h(190): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  0118888_GameEngine.vcxproj -> C:\Users\Shengwei\Documents\0118888_GameEngine\Debug\0118888_GameEngine.exe
