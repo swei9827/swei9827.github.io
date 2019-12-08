@@ -1,0 +1,19 @@
+﻿  main.cpp
+c:\users\0118888\desktop\gameoflife\gameoflife\gameoflife.h(147): warning C4101: 'im': unreferenced local variable
+c:\users\0118888\desktop\gameoflife\gameoflife\gameoflife.h(148): warning C4101: 'ip': unreferenced local variable
+c:\users\0118888\desktop\gameoflife\gameoflife\gameoflife.h(151): warning C4101: 'jp': unreferenced local variable
+c:\users\0118888\desktop\gameoflife\gameoflife\gameoflife.h(150): warning C4101: 'jm': unreferenced local variable
+c:\users\0118888\desktop\gameoflife\gameoflife\gameoflife.h(231): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\0118888\desktop\gameoflife\gameoflife\gameoflife.h(243): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\0118888\desktop\gameoflife\gameoflife\main.cpp(68): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\0118888\desktop\gameoflife\gameoflife\main.cpp(69): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\0118888\desktop\gameoflife\gameoflife\main.cpp(73): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\0118888\desktop\gameoflife\gameoflife\main.cpp(74): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\0118888\desktop\gameoflife\gameoflife\main.cpp(75): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\0118888\desktop\gameoflife\gameoflife\main.cpp(171): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\0118888\desktop\gameoflife\gameoflife\main.cpp(172): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\0118888\desktop\gameoflife\gameoflife\main.cpp(182): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\0118888\desktop\gameoflife\gameoflife\main.cpp(183): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\0118888\desktop\gameoflife\gameoflife\main.cpp(286): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\0118888\desktop\gameoflife\gameoflife\main.cpp(291): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  GameOfLife.vcxproj -> C:\Users\0118888\Desktop\GameOfLife\Debug\GameOfLife.exe
