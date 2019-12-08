@@ -1,0 +1,12 @@
+﻿  Boid.cpp
+c:\users\0118888\desktop\0118888_boidsimulation\0118888_boidsimulation\boid.cpp(14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\0118888\desktop\0118888_boidsimulation\0118888_boidsimulation\boid.cpp(46): warning C4018: '<': signed/unsigned mismatch
+c:\users\0118888\desktop\0118888_boidsimulation\0118888_boidsimulation\boid.cpp(80): warning C4018: '<': signed/unsigned mismatch
+c:\users\0118888\desktop\0118888_boidsimulation\0118888_boidsimulation\boid.cpp(112): warning C4018: '<': signed/unsigned mismatch
+c:\users\0118888\desktop\0118888_boidsimulation\0118888_boidsimulation\boid.cpp(122): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\0118888\desktop\0118888_boidsimulation\0118888_boidsimulation\boid.cpp(136): warning C4018: '<': signed/unsigned mismatch
+c:\users\0118888\desktop\0118888_boidsimulation\0118888_boidsimulation\boid.cpp(141): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\0118888\desktop\0118888_boidsimulation\0118888_boidsimulation\boid.cpp(165): warning C4018: '<': signed/unsigned mismatch
+c:\users\0118888\desktop\0118888_boidsimulation\0118888_boidsimulation\boid.cpp(173): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\0118888\desktop\0118888_boidsimulation\0118888_boidsimulation\boid.cpp(205): warning C4305: 'argument': truncation from 'double' to 'float'
+  0118888_BoidSimulation.vcxproj -> C:\Users\0118888\Desktop\0118888_BoidSimulation\Debug\0118888_BoidSimulation.exe
