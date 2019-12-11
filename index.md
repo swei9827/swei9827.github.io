@@ -1,38 +1,13 @@
 ## Welcome to My GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/swei9827/swei9827.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Networking
+- [2D Network Top Down Shooter](https://github.com/swei9827/swei9827.github.io/tree/master/Networking/2D%20Network%20Top%20Down%20Shooter)
 
-### Markdown
+  Creating 2 players online top down shooter using Photon engine library and visualize object using openGL
+  
+- [Online Multiplayer TicTacToe](https://github.com/swei9827/swei9827.github.io/tree/master/Networking/Photon_TicTacToe)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-Previous Project | Link Url
------------- | -------------
-TicTacToe | Link
-Text Based Adventure | Content in the second column
-OpenGL Pokemon | Content in the second column
-OpenGL Shader | [Link](www.google.com)
-Audio Visualizer | Content in the second column
+  Creating 2 players TicTacToe using Photon engine library and visualize object using openGL
 
 ## Unity Project
 
