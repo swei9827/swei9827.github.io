@@ -33,13 +33,3 @@
   
   Custom Particles System, spawn sprites using particle affector 
   
-## About Me
-
-I'm Shengwei, a student studying Bachelor Degree in Game Development at KDU University College. I currently looking for an internship, if you are interested, you can contact me with the informations provided below.
-
-### Contact Me
-
-Email : sw7177@gmail.com
-
-Contact.No : +60137379827
-
